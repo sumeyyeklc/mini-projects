@@ -1,0 +1,9 @@
+##in this project;
+
++ if the input is divisible by 3 it is a "Fizz" string
+
++ but if the input is divisible by 5 it is a "Buzz" string
+
++ if the input is both (divisible by 5 and 3) it is a "FizzBuzz"
+
++ if it is not a "Fizz" , "Buzz" or "FizzBuzz" it only prints the number
